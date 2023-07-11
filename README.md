@@ -49,6 +49,7 @@
 
 Получение данных из шаблона
 ![два хоста](https://github.com/NikolayAntipov/hw_zabbix_2/blob/main/IMG/latest%20data.JPG)
+![два хоста](https://github.com/NikolayAntipov/hw_zabbix_2/blob/main/IMG/host2.JPG)
 
 ---
 
