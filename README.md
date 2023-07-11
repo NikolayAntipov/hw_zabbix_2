@@ -27,10 +27,9 @@
 ### Задание 1
 
 Создайте свой шаблон, в котором будут элементы данных, мониторящие загрузку CPU и RAM хоста.
-![код ранера]()
-![ранер запущен]()
 
-
+Скриншон шаблона
+![шаблон](https://github.com/NikolayAntipov/hw_zabbix_2/blob/main/IMG/item1.JPG)
 
 ---
 
@@ -38,23 +37,26 @@
 
 Добавьте в Zabbix два хоста и задайте им имена <фамилия и инициалы-1> и <фамилия и инициалы-2>. Например: ivanovii-1 и ivanovii-2.
 
- Успешно выполненые pipeline
- ![код ранера]()
+ Два хоста
+ ![два хоста](https://github.com/NikolayAntipov/hw_zabbix_2/blob/main/IMG/2_allhosts.JPG)
  
- скриншот из сонара 
- ![код ранера]()
- 
- 
+  
 ---
 
 ### Задание 3
 
 Привяжите созданный шаблон к двум хостам. Также привяжите к обоим хостам шаблон Linux by Zabbix Agent.
 
+Получение данных из шаблона
+![два хоста](https://github.com/NikolayAntipov/hw_zabbix_2/blob/main/IMG/latest%20data.JPG)
+
 ---
 
 ### Задание 4
 
 Создайте свой кастомный дашборд.
+
+Дашборд
+![два хоста](https://github.com/NikolayAntipov/hw_zabbix_2/blob/main/IMG/dashboard.JPG)
 
 
